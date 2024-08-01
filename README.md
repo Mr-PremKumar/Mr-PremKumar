@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **React.js**
 
-- 💬 Ask me about **java,HTML,CSS,JAVASCRIPT,MYsql**
+- 💬 Ask me about **JAVA HTML CSS JAVASCRIPT MYsql**
 
 - 📫 How to reach me **premkumar777th@gmail.com**
 
